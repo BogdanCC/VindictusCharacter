@@ -339,6 +339,7 @@
             android:orientation="horizontal"
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
+            android:background="#FFF"
             >
             <ImageView
                 android:layout_width="0dp"
