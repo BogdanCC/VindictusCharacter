@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Vindictus Character</string>
+
+    <string name="col2Title">My Character</string>
+    <string name="charName">Name :\u0020 </string>
+    <string name="charLevel">Level :\u0020 </string>
+    <string name="charGuild">Guild :\u0020 </string>
+    <string name="charRank">Rank :\u0020 </string>
+    <string name="charPower">Power :\u0020 </string>
+    <string name="charTech"> Technique :\u0020 </string>
+    <string name="charNamevalue"> Haen</string>
+    <string name="charLevelvalue"> 95</string>
+    <string name="charGuildvalue"> Blackfyre</string>
+    <string name="charRankvalue"> 21</string>
+    <string name="charPowervalue"> 46000</string>
+    <string name="charTechvalue"> 226</string>
+
+    <string name="col1Title">Game Class</string>
+    <string name="className">Class Name :\u0020 </string>
+    <string name="classGender">Gender :\u0020 </string>
+    <string name="classType">Tyoe :\u0020 </string>
+    <string name="classWeapon">Weapon :\u0020 </string>
+    <string name="classRange">Range :\u0020 </string>
+    <string name="classDpsTier">DPS Tier :\u0020 </string>
+    <string name="classNamevalue"> Sylas</string>
+    <string name="classGendervalue"> Male</string>
+    <string name="classTypevalue"> Mage</string>
+    <string name="classWeaponvalue"> Ph. Dagger</string>
+    <string name="classRangevalue"> Mid-range</string>
+    <string name="classDpsTiervalue"> Upper-mid-tier</string>
+
+    <string name="studentName">Student\nBogdan Corcoveanu</string>
+</resources>
