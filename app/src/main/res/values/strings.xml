@@ -18,7 +18,7 @@
     <string name="col1Title">Game Class</string>
     <string name="className">Class Name :\u0020 </string>
     <string name="classGender">Gender :\u0020 </string>
-    <string name="classType">Tyoe :\u0020 </string>
+    <string name="classType">Type :\u0020 </string>
     <string name="classWeapon">Weapon :\u0020 </string>
     <string name="classRange">Range :\u0020 </string>
     <string name="classDpsTier">DPS Tier :\u0020 </string>
