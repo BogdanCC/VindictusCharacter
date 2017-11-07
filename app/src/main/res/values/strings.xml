@@ -27,7 +27,7 @@
     <string name="classTypevalue"> Mage</string>
     <string name="classWeaponvalue"> Ph. Dagger</string>
     <string name="classRangevalue"> Mid-range</string>
-    <string name="classDpsTiervalue"> Upper-mid-tier</string>
+    <string name="classDpsTiervalue"> Upper-mid</string>
 
     <string name="studentName">Student\nBogdan Corcoveanu</string>
 </resources>
